@@ -1,5 +1,0 @@
-files:
-  - source: /testing/samples/awesome/*.po
-    translation: /%original_path%/%two_letters_code%-%original_file_name%
-  - source: /testing/**/*.json
-    translation: /%original_path%/%two_letters_code%-%original_file_name%
