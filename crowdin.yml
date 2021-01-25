@@ -1,5 +1,6 @@
 files:
-  - source: /testing/**/*.json
+  - source: /testing/**/Example.json
     translation: /%original_path%/%two_letters_code%/test/%original_file_name%
+    dest: /testing/Example.json
   - source: /testing/**/*.po
     translation: /%original_path%/%two_letters_code%/%original_file_name%
