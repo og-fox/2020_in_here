@@ -1,3 +1,4 @@
+commit_message: "HELLO"
 files:
   - source: /testing/sample/awesome/de/test/Example.json
     translation: /%original_path%/%two_letters_code%/test/%original_file_name%
