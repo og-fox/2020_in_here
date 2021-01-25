@@ -1,5 +1,9 @@
 files:
   - source: /testing/**/*?*.json
     translation: /%original_path%/%two_letters_code%/test/%original_file_name%
+    translation_replace: {
+      "Example": "",
+      "?": "."
+    }
   - source: /testing/**/*.po
     translation: /%original_path%/%two_letters_code%/%original_file_name%
