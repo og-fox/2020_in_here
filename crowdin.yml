@@ -1,7 +1,9 @@
-commit_message: "HELLO"
+commit_message: HELLO
 files:
   - source: /testing/sample/awesome/de/test/Example.json
     translation: /%original_path%/%two_letters_code%/test/%original_file_name%
     dest: /testing/Example.json
   - source: /testing/**/*.po
     translation: /%original_path%/%two_letters_code%/%original_file_name%
+  - source: /testing/**/*.xliff
+    translation: /%original_path%/%language%/%original_file_name%
