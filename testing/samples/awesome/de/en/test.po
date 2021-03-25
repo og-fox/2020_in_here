@@ -3,41 +3,41 @@ msgstr ""
 "Project-Id-Version: crowdin-git-integrations\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2008-09-03 10:09+0200\n"
-"PO-Revision-Date: 2021-02-25 06:10\n"
+"PO-Revision-Date: 2021-03-25 15:22\n"
 "Last-Translator: \n"
-"Language-Team: English (upside down)\n"
+"Language-Team: English\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Crowdin-Project: crowdin-git-integrations\n"
 "X-Crowdin-Project-ID: 429866\n"
-"X-Crowdin-Language: en-UD\n"
+"X-Crowdin-Language: en\n"
 "X-Crowdin-File: /[og-fox.2020_in_here] main/testing/samples/awesome/de/test.po\n"
 "X-Crowdin-File-ID: 17728\n"
-"Language: en_UD\n"
+"Language: en_US\n"
 
 #: simple string sample
 msgid "Text for translation"
-msgstr "crwdns3607964:0crwdne3607964:0"
+msgstr ""
 
 #: sample with translated string
 msgid "Text for translation"
-msgstr "crwdns3607966:0crwdne3607966:0"
+msgstr ""
 
 #: long string without new line
 msgid "Very long string for translationeven longer string for translation."
-msgstr "crwdns3607968:0crwdne3607968:0"
+msgstr ""
 
 #: long string with new line
 msgid "Very long string.\n"
 "Even longer string"
-msgstr "crwdns3607970:0crwdne3607970:0"
+msgstr ""
 
 #: plurals
 #, string with plurals forms
 msgid "Time: %1 second"
 msgid_plural "Time: %1 seconds"
-msgstr[0] "crwdns3607972:1%1crwdne3607972:1"
-msgstr[1] "crwdns3607972:5%1crwdne3607972:5"
+msgstr[0] ""
+msgstr[1] ""
 
