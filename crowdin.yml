@@ -4,4 +4,8 @@ files:
     translation: /%original_path%/%file_name%.%two_letters_code%.%file_extension%
     "translation_replace": {
       "en.": ""
-     }
+     },
+    "excluded_target_languages": [
+      "uk",
+      "fr"
+    ]
