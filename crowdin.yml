@@ -3,5 +3,6 @@ files:
   - source: /testing/samples/awesome/*.en.json
     translation: /%original_path%/%file_name%.%two_letters_code%.%file_extension%
     "translation_replace": {
-      "en.": ""
+      "en.": "",
+      "en.en.":"en."
     }
