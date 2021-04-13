@@ -1,6 +1,6 @@
 commit_message: HELLO
 files:
-  - source: /testing/samples/awesome/*.en.json
+  - source: /src/sample/*.*
     translation: /%original_path%/%file_name%.%two_letters_code%.%file_extension%
     translation_replace:
       en.: ''
