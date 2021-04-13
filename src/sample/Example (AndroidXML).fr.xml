@@ -5,4 +5,5 @@
     <string name="identifier_2" comment="Type string's context here">String for translation</string>
     <!--context for string 3-->
     <string name="identifier_3">String for translation</string>
+    <string name="I_phone_11_pro_x_1__Identifier_1" comment="string_for_translation">String for translation</string>
 </resources>
