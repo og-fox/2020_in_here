@@ -13,8 +13,8 @@ msgstr ""
 "X-Crowdin-Project: crowdin-git-integrations\n"
 "X-Crowdin-Project-ID: 429866\n"
 "X-Crowdin-Language: fr\n"
-"X-Crowdin-File: /[og-fox.2020_in_here] feature-new/testing/samples/awesome/test.po\n"
-"X-Crowdin-File-ID: 18034\n"
+"X-Crowdin-File: /[og-fox.2020_in_here] feature-new/testing/samples/awesome/fr/test.po\n"
+"X-Crowdin-File-ID: 18032\n"
 "Language: fr_FR\n"
 
 #: simple string sample
