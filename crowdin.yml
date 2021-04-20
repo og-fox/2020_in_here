@@ -4,7 +4,3 @@ files:
     translation_replace: {
      ".en":""
     }
-  - source: en*.*
-    ignore:
-    - **/do-not-translate
-    translation: %two_letters_code%%original_file_name%
