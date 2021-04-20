@@ -2,8 +2,8 @@ files:
   - source: /Translated-Markdown-Pages/*.en.md
     translation: /Translated-Markdown-Pages/%file_name%.%two_letters_code%.md
     translation_replace: {
-".en":""
-}
+     ".en":""
+    }
   - source: en*.*
     ignore:
     - '**/do-not-translate'
