@@ -1,6 +1,7 @@
 files:
   - source: /Translated-Markdown-Pages/*.en.md
     translation: /Translated-Markdown-Pages/%file_name%.%two_letters_code%.md
-    translation_replace: {
-     ".en":""
-    }
+    translation_replace:
+      .en: ''
+  - source: /**/en*.*
+    translation: /%original_path%/%two_letters_code%%original_file_name%
