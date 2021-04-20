@@ -1,6 +1,10 @@
-commit_message: HELLO
 files:
-  - source: /src/sample/*.*
-    translation: /%original_path%/%file_name%.%two_letters_code%.%file_extension%
-    translation_replace:
-      en.: ''
+- source: /Translated-Markdown-Pages/*.en.md
+translation: /Translated-Markdown-Pages/%file_name%.%two_letters_code%.md
+translation_replace: {
+".en":""
+}
+- source: en*.*
+ignore:
+- '**/do-not-translate'
+translation: %two_letters_code%%original_file_name%
