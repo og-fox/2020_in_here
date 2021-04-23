@@ -7,3 +7,5 @@ files:
     ignore:
       - /**/*do-not-translate*.*
     translation: /%original_path%/%two_letters_code%%original_file_name%
+  - source: /testing/samples/awesome/Example.en.json
+    translation: /%original_path%/%two_letters_code%/%original_file_name%
